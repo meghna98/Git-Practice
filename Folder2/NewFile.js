@@ -1,0 +1,1 @@
+console.log('New File created from dir1')
